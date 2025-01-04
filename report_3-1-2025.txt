@@ -1,0 +1,5 @@
+Total income: 1812.00
+Total expenses for products: 151.50
+Total salaries for employees: 21400.00
+Total expenses for events: 560.00
+Total profit: -20299.50

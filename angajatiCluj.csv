@@ -1,0 +1,6 @@
+id,fistname,lastname,function,shift_start,shift_end,salary
+234,John,Doe,Barista,06:00,14:00,2800
+008,Jane,Smith,Manager,09:00,17:00,4000
+330,Alice,Johnson,Waiter,14:00,22:00,2500
+356,Bob,Brown,Barista,14:00,22:00,2800
+675,Eve,Davis,Waiter,08:00,16:00,2500

@@ -1,0 +1,6 @@
+fistname,lastname,function,shift_start,shift_end,salary
+Andrei,Popa,barista,06:00,14:00,2800
+Mihai,Popa,barista,14:00,22:00,2800
+Maria,Ionescu,manager,08:00,16:00,4000
+Ion,Ionescu,waiter,14:00,22:00,2500
+Costel,Popa,waiter,06:00,14:00,2500
